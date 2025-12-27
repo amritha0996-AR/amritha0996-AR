@@ -2,7 +2,7 @@
   <tr>
     <td width="65%" valign="left">
 
-#### Hello, Amritha here! 👋  
+#### Hello, Amritha here!  
 ## Welcome to my GitHub Profile Page 😊  
 
 *I work at the intersection of **data, analytics, and business strategy**, turning insights into impact* 📊
@@ -23,10 +23,10 @@
 I’m a **Business & Data Analytics professional** who enjoys turning messy data into meaningful stories 📊  
 With a background spanning **marketing analytics, business research, and data science**, I work at the intersection of **numbers, strategy, and human insight**.
 
-- 🎓 Master’s in **Business Analytics**  
-- 💼 Experience in **Analytics, Research & Consulting**  
-- 🧠 Curious about **AI, sustainability, and data-driven decision making**  
-- 🌱 Always learning, always building  
+🎓 Master’s in **Business Analytics**  
+💼 Experience in **Analytics, Research & Consulting**  
+🧠 Curious about **AI, sustainability, and data-driven decision making**  
+🌱 Always learning, always building  
 
 ---
 
