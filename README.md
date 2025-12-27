@@ -43,17 +43,6 @@ With a background spanning **marketing analytics, business research, and data sc
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritha0996-AR&show_icons=true&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amritha0996-AR&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ### 🌍 Let’s Connect
 If you’re interested in **data, analytics, impact-driven projects, or collaboration**, feel free to explore or reach out 🤝  
 
