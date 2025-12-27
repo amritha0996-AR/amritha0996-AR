@@ -1,12 +1,11 @@
 <table>
   <tr>
-    <td width="60%" valign="middle">
+    <td width="60%" valign="left">
 
 #### Hello, Amritha here! 👋  
 ## Welcome to my GitHub Profile Page 😊  
 
-*I work at the intersection of **data, analytics, and business strategy**,  
-turning insights into impact* 📊
+*I work at the intersection of **data, analytics, and business strategy**, turning insights into impact* 📊
 
   </td>
   <td width="40%" align="center">
