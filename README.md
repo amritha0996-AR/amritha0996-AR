@@ -7,7 +7,7 @@
 
 *I work at the intersection of **data, analytics, and business strategy**, turning insights into impact* 📊
 
-
+<br/>
   </td>
   <td width="35%" align="center">
 
