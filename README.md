@@ -1,8 +1,7 @@
-amritha0996-AR  
 ### Hello, Amritha here! 👋  
 # Welcome to my GitHub Profile Page 😊  
 
-<p align="right">
+<p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ3dWs0Y2Q4c285cGplYnhsMzZqcjV6cWgzdWxrdzE5NjVmaTN6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="280"/>
 </p>
 
