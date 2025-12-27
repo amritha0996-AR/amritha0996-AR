@@ -17,20 +17,7 @@
   </tr>
 </table>
 
----
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZtOWN0c3E4MzN6OWM5djRrYWdhZXNucGtuc2N4eGVldmZhdjVsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4jKn7itdV2Tvjzj6Y/giphy.gif" width="280"/>
-
-## Hello, Amritha here! 👋  
-## Welcome to my GitHub Profile Page 😊  
-
-*I work at the intersection of **data, analytics, and business strategy**,  
-turning insights into impact* 📊
-
-<br clear="right"/>
-
-
----
 
 ### ✨ About Me
 I’m a **Business & Data Analytics professional** who enjoys turning messy data into meaningful stories 📊  
