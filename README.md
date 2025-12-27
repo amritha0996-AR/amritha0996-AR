@@ -2,7 +2,7 @@
   <tr>
     <td width="65%" valign="left">
 
-#### Hello, Amritha here!  ![My Animation](Hi.gif.gif)
+#### Hello, Amritha here! 👋
 ## Welcome to my GitHub Profile Page 😊  
 
 *I work at the intersection of **data, analytics, and business strategy**, turning insights into impact* 📊
