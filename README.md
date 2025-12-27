@@ -1,8 +1,8 @@
 ### Hello, Amritha here! 👋  
 # Welcome to my GitHub Profile Page 😊  
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZtOWN0c3E4MzN6OWM5djRrYWdhZXNucGtuc2N4eGVldmZhdjVsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4jKn7itdV2Tvjzj6Y/giphy.gif">
-
+<p align="left">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZtOWN0c3E4MzN6OWM5djRrYWdhZXNucGtuc2N4eGVldmZhdjVsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4jKn7itdV2Tvjzj6Y/giphy.gif" width = "240"/>
 
 ---
 
