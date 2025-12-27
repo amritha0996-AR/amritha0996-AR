@@ -2,7 +2,7 @@ amritha0996-AR
 ### Hello, Amritha here! 👋  
 # Welcome to my GitHub Profile Page 😊  
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R2dDdrYmV3NXRqZmp0b2M5M2F4eXNzNG5tc2M3eTR3M3J1cDhwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="280"/>
+[<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R2dDdrYmV3NXRqZmp0b2M5M2F4eXNzNG5tc2M3eTR3M3J1cDhwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="280"/>](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ3dWs0Y2Q4c285cGplYnhsMzZqcjV6cWgzdWxrdzE5NjVmaTN6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif)
 
 ---
 
