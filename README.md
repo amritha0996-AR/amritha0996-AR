@@ -17,6 +17,12 @@ With a background spanning **marketing analytics, business research, and data sc
 
 ---
 
+### 💡 My Philosophy
+> **“Data is powerful, but insight is human.”**  
+> I believe analytics should not just explain *what* happened, but help people understand *why* — and act with clarity and purpose.
+
+---
+
 ### 🔍 What You’ll Find Here
 📌 Data analysis projects  
 📌 Python, SQL, R & BI dashboards  
@@ -34,6 +40,14 @@ With a background spanning **marketing analytics, business research, and data sc
 
 **Other:**  
 `Jupyter Notebook` · `Git` · `Data Storytelling`
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amritha0996-AR&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritha0996-AR&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
