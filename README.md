@@ -5,7 +5,7 @@
 #### Hello, Amritha here! 👋
 ## Welcome to my GitHub Profile Page 😊  
 
-*I work at the intersection of **data, analytics, and business strategy**, turning insights into impact* 📊
+*I work at the intersection of **data, analytics, and business strategy**, turning insights into impact*
 
 <br/>
   </td>
