@@ -46,6 +46,7 @@ This GitHub showcases **applied analytics projects**, including:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" height="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="38"/>
@@ -63,6 +64,7 @@ This GitHub showcases **applied analytics projects**, including:
  ---
 
 **Analytics and Business Skills:**
+
 `Predictive Modeling` · `A/B Testing` · `Forecasting`· `Cohort & Trend Analysis` · `KPI Frameworks` · `Revenue Analysis` · `Pricing Strategy` · `Market & Competitive Insights` 
 
 ---
@@ -75,7 +77,7 @@ This GitHub showcases **applied analytics projects**, including:
 
 I’m particularly interested in roles that sit at the intersection of **analytics, strategy, and decision-making**, where data is used to shape outcomes — not just report metrics.
 
-📫 Feel free to explore the projects or connect via my [website]([url](https://studyaar.wixsite.com/my-journey)).
+📫 Feel free to explore the projects or connect via my 🌐 **[website](https://studyaar.wixsite.com/my-journey)**.
 
 ✨ *Building insights, one dataset at a time.*
 
